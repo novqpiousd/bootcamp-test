@@ -4,7 +4,7 @@ This repo contains all the materials you'll need for MCSB bootcamp dry! It's org
 
 Some preparation is required:
 
-Day 1: Install Git & other command line tools, Atom, Matlab. Instructions are in [Monday folder](/Monday/README.MD#install-instructions).
+Day 1: Install Git & other command line tools, Atom, Matlab. Instructions are in [Monday folder](/Monday/README.MD).
 
 Day 2:
 
