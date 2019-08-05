@@ -77,7 +77,7 @@ If we then wanted to return to /Users/Matt, we could use `cd ..` three times, `c
 
 Go to the [root page](/../../) and use the green "Clone or download" button to copy the address of this repo.
 
-Now, back in the command line on your computer, type "git clone ", then paste the link. The command should look like
+Now, back in the command line on your computer, type "git clone ", then paste the link (right click on Windows Ubuntu, `⌘`+`v` on MacOS). The command should look like
 
 `git clone https://github.com/novqpiousd/bootcamp-test.git`
 
